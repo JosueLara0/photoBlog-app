@@ -10,9 +10,9 @@ Learning:
 
 <!-- # Deployment
 
-VERCEL: -->
+VERCEL:
 
-[LINK]()
+[LINK]() -->
 
 ## Screenshot
 
