@@ -8,9 +8,9 @@ Learning:
 2. Use Sweetalert2 modals.
 3. Set up and make Firebase, Cloudinary and Redux store tests with Jest and React Testing library.
 
-# Deployment
+<!-- # Deployment
 
-VERCEL:
+VERCEL: -->
 
 [LINK]()
 
